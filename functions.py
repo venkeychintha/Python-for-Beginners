@@ -1,5 +1,7 @@
-def add():
-    return 2 + 3
+def add(a,b):
+    c=a+b
+    print(c)
+add(4,5)
 
 def multiply():
     return 2 * 3
